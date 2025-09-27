@@ -1,0 +1,8 @@
+com\jobtracker\app\model\Priority.class
+com\jobtracker\app\web\JobApplicationController.class
+com\jobtracker\app\JobTrackerApplication.class
+com\jobtracker\app\model\ApplicationStatus.class
+com\jobtracker\app\model\JobType.class
+com\jobtracker\app\config\DataInitializer.class
+com\jobtracker\app\model\JobApplication.class
+com\jobtracker\app\repo\JobApplicationRepository.class
